@@ -1,0 +1,13 @@
+.image-display{
+  display:inline-block;
+  padding:10px;
+  margin:30px;
+  text-align: center;
+  vertical-align: top;
+}
+
+#display{
+border: 3px solid blue;
+margin: 20px;
+text-align: center;
+}
